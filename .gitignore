@@ -1,0 +1,17 @@
+# 产物与运行状态（体量很大，不要提交）
+data/
+state/
+logs/
+*.varint
+*.varint.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+
+# 其他
+.mplcache/
+tests/_tmp/
